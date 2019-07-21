@@ -1,0 +1,6 @@
+echo "# https-discordapp.com-api-webhooks-602477672827715594-A3MQ7QrZF7rottWcikmfGP2o53x19QmrrZUtxU6h8ZUMg" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Mixenix/https-discordapp.com-api-webhooks-602477672827715594-A3MQ7QrZF7rottWcikmfGP2o53x19QmrrZUtxU6h8ZUMg.git
+git push -u origin master
